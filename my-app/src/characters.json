@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "image": "https://ap2hyc.com/wp-content/uploads/2014/05/mystique_romijn.jpg",
+        "name": "Mystique"
+    },
+    {
+        "id": 2,
+        "image": "http://cbldf.org/wp-content/uploads/2014/09/wolverine.jpg",
+        "name": "Wolverine"
+    },
+    {
+        "id": 3,
+        "image": "http://www.sacredandsequential.org/wp-content/uploads/2015/06/Cyclops_Head.jpg",
+        "name": "Cyclops"
+    },
+    {
+        "id": 4,
+        "image": "http://www.nerds-feather.com/2018/07/perspectives-lets-talk-marvel-comics.html",
+        "name": "Magneto"
+    },
+    {
+        "id": 5,
+        "image": "https://comicvine.gamespot.com/images/1300-2854984",
+        "name": "Jean Grey"
+    },
+    {
+        "id": 6,
+        "image": "https://qpho2.fs.quoracdn.net/main-qimg-a2b3485a0ec74dd813a72f8d25cdcd79-c",
+        "name": "Storm"
+    },
+    {
+        "id": 7,
+        "image": "https://vignette.wikia.nocookie.net/deadpool/images/e/e2/Sabretooth.jpg/revision/latest?cb=20140626200444",
+        "name": "Sabertooth"
+    },
+    {
+        "id": 8,
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/86/Rogue2CoverByMikeWieringo.jpg.gif",
+        "name": "Rogue"
+    },
+    {
+        "id": 9,
+        "image": "https://boundingintocomics.com/files/2019/03/2019.03.22-01.48-boundingintocomics-5c943f06ebc3e.png",
+        "name": "Iceman"
+    },
+    {
+        "id": 10,
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Juggernaut2.PNG/250px-Juggernaut2.PNG",
+        "name": "Juggernaut"
+    },
+    {
+        "id": 11,
+        "image": "https://vignette.wikia.nocookie.net/x-men/images/5/5b/Nightcrawler_Vol_4_1_Textless.jpg/revision/latest/scale-to-width-down/329?cb=20140918225858",
+        "name": "Nightcrawler"
+    },
+    {
+        "id": 12,
+        "image": "https://i.imgur.com/E2TlMKe.jpg",
+        "name": "Colossus"
+    }
+  
+]
