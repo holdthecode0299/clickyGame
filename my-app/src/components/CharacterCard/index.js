@@ -3,9 +3,9 @@ import "./style.css";
 
 function CharacterCard(props) {
   return (
-    <div className="card">
+    <div className="card" onClick={props}>
       <div className="img-container">
-        <img alt={props.name} src={props.image} />
+        {/* <img alt={props.name} src={props.image} /> */}
       </div>
       <div className="content">
         <ul>
@@ -14,7 +14,6 @@ function CharacterCard(props) {
           </li>
         </ul>
       </div>
-      {/* <span className="remove">𝘅</span> */}
     </div>
   );
 }
