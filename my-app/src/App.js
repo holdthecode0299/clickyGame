@@ -1,9 +1,11 @@
 import React, {Component} from "react";
 import CharacterCard from "./components/CharacterCard";
 import characters from "./characters.json";
-// import Score from "./components/Score"; 
+
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title"
+
+
 // import logo from './logo.svg';
 import './App.css'
 
