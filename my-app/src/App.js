@@ -7,7 +7,7 @@ import Title from "./components/Title"
 
 
 // import logo from './logo.svg';
-import './App.css'
+// import './App.css'
 
 class App extends Component {
 
