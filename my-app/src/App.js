@@ -34,6 +34,18 @@ class App extends Component {
     });
     alert("Yikes. Try again")
   
+  } else {
+    this.setState(
+      {
+        characters: this.state.characters.sort(function(a, b){
+          return 0.5 - Math.random();
+        }),
+        clickedCharacters: this.state.clickedCharacters.concat(
+          currentCharacter
+        ),
+        score: this.state.score + 1
+      },
+    )
   }
   }
 
